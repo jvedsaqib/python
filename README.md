@@ -8,3 +8,4 @@ OOP:
   2. openCV:
      - [Show an image](https://github.com/jvedsaqib/python/blob/main/openCV/showImage.py)
      - [Blur an image](https://github.com/jvedsaqib/python/blob/main/openCV/blur.py)
+     - [color to gray](https://github.com/jvedsaqib/python/blob/main/openCV/gray.py)
