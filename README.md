@@ -12,3 +12,4 @@ OOP:
      - [Edge detection](https://github.com/jvedsaqib/python/blob/main/openCV/edge_cascade.py)
      - [Resize image](https://github.com/jvedsaqib/python/blob/main/openCV/resize.py)
      - [Histogram](https://github.com/jvedsaqib/python/blob/main/openCV/histogram.py)
+     - [Dilated Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
