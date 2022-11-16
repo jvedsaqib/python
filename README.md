@@ -13,3 +13,4 @@ OOP:
      - [Resize image](https://github.com/jvedsaqib/python/blob/main/openCV/resize.py)
      - [Histogram](https://github.com/jvedsaqib/python/blob/main/openCV/histogram.py)
      - [Dilated Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
+     - [Eroded Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
