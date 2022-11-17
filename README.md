@@ -8,7 +8,8 @@ OOP:
   2. openCV:
      - [Show an image](https://github.com/jvedsaqib/python/blob/main/openCV/showImage.py)
      - [Blur an image](https://github.com/jvedsaqib/python/blob/main/openCV/blur.py)
-     - [color to gray](https://github.com/jvedsaqib/python/blob/main/openCV/gray.py)
+     - [bgr to gray](https://github.com/jvedsaqib/python/blob/main/openCV/gray.py)
+     - [bgr to hsv](https://github.com/jvedsaqib/python/blob/main/openCV/hsv.py)
      - [Edge detection](https://github.com/jvedsaqib/python/blob/main/openCV/edge_cascade.py)
      - [Resize image](https://github.com/jvedsaqib/python/blob/main/openCV/resize.py)
      - [Crop an image](https://github.com/jvedsaqib/python/blob/main/openCV/cropped.py)
