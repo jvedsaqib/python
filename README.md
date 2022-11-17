@@ -11,6 +11,7 @@ OOP:
      - [color to gray](https://github.com/jvedsaqib/python/blob/main/openCV/gray.py)
      - [Edge detection](https://github.com/jvedsaqib/python/blob/main/openCV/edge_cascade.py)
      - [Resize image](https://github.com/jvedsaqib/python/blob/main/openCV/resize.py)
+     - [Crop an image](https://github.com/jvedsaqib/python/blob/main/openCV/cropped.py)
      - [Histogram](https://github.com/jvedsaqib/python/blob/main/openCV/histogram.py)
      - [Dilated Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
      - [Eroded Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
