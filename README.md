@@ -10,6 +10,7 @@ OOP:
      - [Blur an image](https://github.com/jvedsaqib/python/blob/main/openCV/blur.py)
      - [bgr to gray](https://github.com/jvedsaqib/python/blob/main/openCV/gray.py)
      - [bgr to hsv](https://github.com/jvedsaqib/python/blob/main/openCV/hsv.py)
+     - [bgr to lab](https://github.com/jvedsaqib/python/blob/main/openCV/lab.py)
      - [Edge detection](https://github.com/jvedsaqib/python/blob/main/openCV/edge_cascade.py)
      - [Resize image](https://github.com/jvedsaqib/python/blob/main/openCV/resize.py)
      - [Crop an image](https://github.com/jvedsaqib/python/blob/main/openCV/cropped.py)
