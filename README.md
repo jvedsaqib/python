@@ -18,3 +18,4 @@ OOP:
      - [Histogram](https://github.com/jvedsaqib/python/blob/main/openCV/histogram.py)
      - [Dilated Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
      - [Eroded Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
+     - [Addition of two images](https://github.com/jvedsaqib/python/blob/main/openCV/addition.py)
