@@ -25,3 +25,4 @@ OpenCV:
   - [Eroded Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
   - [Addition of two images](https://github.com/jvedsaqib/python/blob/main/openCV/addition.py)
   - [Subtraction of two images](https://github.com/jvedsaqib/python/blob/main/openCV/subtraction.py)
+  - [Average of two images](https://github.com/jvedsaqib/python/blob/main/openCV/average.py)
