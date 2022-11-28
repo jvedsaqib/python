@@ -28,3 +28,4 @@ OpenCV:
   - [Subtraction of two images](https://github.com/jvedsaqib/python/blob/main/openCV/subtraction.py)
   - [Average of two images](https://github.com/jvedsaqib/python/blob/main/openCV/average.py)
   - [Intensity Count](https://github.com/jvedsaqib/python/blob/main/openCV/intensity.py)
+  - [Max Filter](https://github.com/jvedsaqib/python/blob/main/openCV/max_filter.py)
