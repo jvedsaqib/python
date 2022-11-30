@@ -3,12 +3,16 @@ A repo for python programs
 
 ## Program List:
 
+BASIC:
+  - [Decimal to Binary](https://github.com/jvedsaqib/python/blob/main/Basic/dec_to_bin.py)
+
+
 LIST:
   - [List implement](https://github.com/jvedsaqib/python/blob/main/LIST/list.py)
   - [Word Count](https://github.com/jvedsaqib/python/blob/main/LIST/word_count.py)
 
 OOP:
-  1. [Create A graph](https://github.com/jvedsaqib/python/tree/main/oop/Graph) using file
+  - [Create A graph](https://github.com/jvedsaqib/python/tree/main/oop/Graph) using file
 
 
 OpenCV:
