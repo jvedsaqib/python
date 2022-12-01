@@ -5,6 +5,7 @@ A repo for python programs
 
 BASIC:
   - [Decimal to Binary](https://github.com/jvedsaqib/python/blob/main/Basic/dec_to_bin.py)
+  - [Monoalphabetic Substituition Cipher](https://github.com/jvedsaqib/python/blob/main/Basic/subs_cipher.py)
 
 
 LIST:
