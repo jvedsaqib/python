@@ -9,6 +9,7 @@ BASIC:
   - [Monoalphabetic Substituition Cipher](https://github.com/jvedsaqib/python/blob/main/Basic/subs_cipher.py)
   - [Vigenere Cipher](https://github.com/jvedsaqib/python/blob/main/Basic/vigenere.py)
   - [Longest Word](https://github.com/jvedsaqib/python/blob/main/Basic/longest_word.py)
+  - [Palindrome in a sentence](https://github.com/jvedsaqib/python/blob/main/Basic/palindrome.py)
 
 
 LIST:
