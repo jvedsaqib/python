@@ -33,5 +33,18 @@ def add(mat1, mat2):
     
     return res_mat
 
+# subtraction of two matrix
+
+def sub(mat1, mat2):
+    res_mat = []
+    for i in range(len(mat1)):
+        res_mat_col = []
+        for j in range(len(mat2)):
+            temp = mat1[i][j] - mat2[i][j]
+            res_mat_col.append(temp)
+        res_mat.append(res_mat_col)
+    
+    return res_mat
+
 
 #print_matrix(input_matrix(3,3))
