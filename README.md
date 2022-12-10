@@ -10,6 +10,7 @@ BASIC:
   - [Vigenere Cipher](https://github.com/jvedsaqib/python/blob/main/Basic/vigenere.py)
   - [Longest Word](https://github.com/jvedsaqib/python/blob/main/Basic/longest_word.py)
   - [Palindrome in a sentence](https://github.com/jvedsaqib/python/blob/main/Basic/palindrome.py)
+  - [Gaussian Addition](https://github.com/jvedsaqib/python/blob/main/Basic/gaussian_addition.py)
 
 
 LIST:
