@@ -18,6 +18,7 @@ LIST:
   - [Word Count](https://github.com/jvedsaqib/python/blob/main/LIST/word_count.py)
   - [Matrix Functions](https://github.com/jvedsaqib/python/blob/main/LIST/matrix.py)
   - [Matrix Implementation](https://github.com/jvedsaqib/python/blob/main/LIST/matrix_demo.py)
+  - [Unit Matrix](https://github.com/jvedsaqib/python/blob/main/LIST/unit_matix.py)
   
 
 OOP:
