@@ -32,6 +32,7 @@ OpenCV:
   - [bgr to hsv](https://github.com/jvedsaqib/python/blob/main/openCV/hsv.py)
   - [bgr to lab](https://github.com/jvedsaqib/python/blob/main/openCV/lab.py)
   - [bgr to rgb](https://github.com/jvedsaqib/python/blob/main/openCV/rgb.py)
+  - [RGB to YCbCr](https://github.com/jvedsaqib/python/blob/main/openCV/ycbcr.py)
   - [Edge detection](https://github.com/jvedsaqib/python/blob/main/openCV/edge_cascade.py)
   - [Resize image](https://github.com/jvedsaqib/python/blob/main/openCV/resize.py)
   - [Crop an image](https://github.com/jvedsaqib/python/blob/main/openCV/cropped.py)
