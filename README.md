@@ -19,6 +19,7 @@ LIST:
   - [Matrix Functions](https://github.com/jvedsaqib/python/blob/main/LIST/matrix.py)
   - [Matrix Implementation](https://github.com/jvedsaqib/python/blob/main/LIST/matrix_demo.py)
   - [Unit Matrix](https://github.com/jvedsaqib/python/blob/main/LIST/unit_matix.py)
+  - [Rotate Matrix](https://github.com/jvedsaqib/python/blob/main/LIST/matrix_rotate.py)
   
 
 OOP:
