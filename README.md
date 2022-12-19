@@ -21,6 +21,9 @@ LIST:
   - [Unit Matrix](https://github.com/jvedsaqib/python/blob/main/LIST/unit_matix.py)
   - [Rotate Matrix](https://github.com/jvedsaqib/python/blob/main/LIST/matrix_rotate.py)
   
+SORT_SEARCH:
+  - [Bubble Sort](https://github.com/jvedsaqib/python/blob/main/Sort_Search/bubble_sort.py)
+  
 
 OOP:
   - [Create A graph](https://github.com/jvedsaqib/python/tree/main/oop/Graph) using file
