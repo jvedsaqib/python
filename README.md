@@ -24,6 +24,7 @@ LIST:
 SORT_SEARCH:
   - [Bubble Sort](https://github.com/jvedsaqib/python/blob/main/Sort_Search/bubble_sort.py)
   - [Insertion Sort](https://github.com/jvedsaqib/python/blob/main/Sort_Search/insertion_sort.py)
+  - [Selection Sort](https://github.com/jvedsaqib/python/blob/main/Sort_Search/selection_sort.py)
   
 
 OOP:
