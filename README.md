@@ -53,3 +53,4 @@ OpenCV:
   - [Max Filter](https://github.com/jvedsaqib/python/blob/main/openCV/max_filter.py)
   - [Min Filter](https://github.com/jvedsaqib/python/blob/main/openCV/min_filter.py)
   - [BGR Image Negative](https://github.com/jvedsaqib/python/blob/main/openCV/bgr_image_negative.py)
+  - [BGR Log Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/log_transform.py)
