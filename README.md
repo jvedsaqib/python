@@ -44,6 +44,7 @@ OpenCV:
   - [Crop an image](https://github.com/jvedsaqib/python/blob/main/openCV/cropped.py)
   - [Rotate an image](https://github.com/jvedsaqib/python/blob/main/openCV/rotate.py)
   - [Histogram](https://github.com/jvedsaqib/python/blob/main/openCV/histogram.py)
+  - [Histogram Equalization](https://github.com/jvedsaqib/python/blob/main/openCV/histogram_equalization.py)
   - [Dilated Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
   - [Eroded Image](https://github.com/jvedsaqib/python/blob/main/openCV/dilated.py)
   - [Addition of two images](https://github.com/jvedsaqib/python/blob/main/openCV/addition.py)
