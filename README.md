@@ -57,3 +57,4 @@ OpenCV:
   - [BGR Log Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/log_transform.py)
   - [BGR Power Law Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/power_law.py)
   - [Piecewise Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/piecewise.py)
+  - [Brightness Enhancement](https://github.com/jvedsaqib/python/blob/main/openCV/brightness.py)
