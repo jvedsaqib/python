@@ -53,6 +53,7 @@ OpenCV:
   - [Intensity Count](https://github.com/jvedsaqib/python/blob/main/openCV/intensity.py)
   - [Max Filter](https://github.com/jvedsaqib/python/blob/main/openCV/max_filter.py)
   - [Min Filter](https://github.com/jvedsaqib/python/blob/main/openCV/min_filter.py)
+  - [Mean Filter](https://github.com/jvedsaqib/python/blob/main/openCV/mean.py)
   - [BGR Image Negative](https://github.com/jvedsaqib/python/blob/main/openCV/bgr_image_negative.py)
   - [BGR Log Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/log_transform.py)
   - [BGR Power Law Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/power_law.py)
