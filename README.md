@@ -59,3 +59,4 @@ OpenCV:
   - [BGR Power Law Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/power_law.py)
   - [Piecewise Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/piecewise.py)
   - [Brightness Enhancement](https://github.com/jvedsaqib/python/blob/main/openCV/brightness.py)
+  - [Gray Level Slicing](https://github.com/jvedsaqib/python/blob/main/openCV/grayLevelSlicing.py)
