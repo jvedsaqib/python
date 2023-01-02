@@ -60,3 +60,4 @@ OpenCV:
   - [Piecewise Transformation](https://github.com/jvedsaqib/python/blob/main/openCV/piecewise.py)
   - [Brightness Enhancement](https://github.com/jvedsaqib/python/blob/main/openCV/brightness.py)
   - [Gray Level Slicing](https://github.com/jvedsaqib/python/blob/main/openCV/grayLevelSlicing.py)
+  - [Region Growing](https://github.com/jvedsaqib/python/blob/main/openCV/regionGrow.py)
