@@ -61,3 +61,4 @@ OpenCV:
   - [Brightness Enhancement](https://github.com/jvedsaqib/python/blob/main/openCV/brightness.py)
   - [Gray Level Slicing](https://github.com/jvedsaqib/python/blob/main/openCV/grayLevelSlicing.py)
   - [Region Growing](https://github.com/jvedsaqib/python/blob/main/openCV/regionGrow.py)
+  - [Noise](https://github.com/jvedsaqib/python/blob/main/openCV/noise.py)
