@@ -29,6 +29,7 @@ SORT_SEARCH:
 
 OOP:
   - [Create A graph](https://github.com/jvedsaqib/python/tree/main/oop/Graph) using file
+  - [Graph Traversal - BFS, DFS](https://github.com/jvedsaqib/python/blob/main/oop/Graph/graphTrav.py)
 
 
 OpenCV:
